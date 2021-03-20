@@ -2,6 +2,29 @@ body {
     background-color:azure;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-width: 2px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    
+  }
+  
+    .foto1{
+      width: 20%;
+    }
+    .foto2{
+        width: 20%;
+      }
+    .foto3{
+        width:20%;
+      }
+    .foto4{
+        width: 20%;
+      }
+
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
@@ -10,6 +33,22 @@ body {
     }
     .foto2{
         width: 40%;
+      }
+    .foto3{
+        width: 50%;
+      }
+    .foto4{
+        width: 50%;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        text-align: center;
+    
+    
       }
 }
   
