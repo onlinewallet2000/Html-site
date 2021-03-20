@@ -2,6 +2,17 @@ body {
     background-color:azure;
 }
 
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .foto1{
+      width: 60%;
+    }
+    .foto2{
+        width: 40%;
+      }
+}
+  
 .fotot {
     text-align: center;
-}
+   }
