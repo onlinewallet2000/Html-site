@@ -24,20 +24,38 @@ table, th, td {
     .foto4{
         width: 20%;
       }
+    .foto5{
+        width: 20%;
+      }
+    .foto6{
+        width: 20%;
+      }
+    .foto7{
+        width: 20%;
+      }
 
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .foto1{
-      width: 60%;
+      width: 55%;
     }
     .foto2{
         width: 40%;
       }
     .foto3{
-        width: 50%;
+        width: 40%;
       }
     .foto4{
+        width: 50%;
+      }
+    .foto5{
+        width: 45%;
+      }
+    .foto6{
+        width: 37%;
+      }
+    .foto7{
         width: 50%;
       }
 
