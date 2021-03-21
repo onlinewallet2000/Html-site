@@ -1,0 +1,28 @@
+body {
+    background-color:azure;
+}
+
+table, th, td {    
+    margin-left: auto;  
+    margin-right: auto;  
+    border-collapse: collapse;    
+ 
+    text-align: center;  
+    font-size: 20px;  
+    width: 500px;
+    height: 50px;    
+}   
+
+.centertd {
+    border: 1px solid black;  
+    height: 150px;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  }
