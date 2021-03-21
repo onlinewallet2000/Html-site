@@ -16,7 +16,7 @@ table, th, td {
       width: 22%;
     }
     .foto2{
-        width: 20%;
+        width: 19%;
       }
     .foto3{
         width:20%;
@@ -40,13 +40,31 @@ table, th, td {
         width: 20%;
       }
     .foto10{
+        width: 13%;
+      }
+
+
+      /*     sunlisiti 1 */
+      .foto1-1{
         width: 20%;
+      }
+      .foto1-2{
+        width: 19%;
+      }
+      .foto1-3{
+        width: 27%;
+      }
+      .foto1-4{
+        width: 36%;
+      }
+      .foto1-5{
+        width: 24%; 
       }
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .foto1{
-      width: 55%;
+      width: 51%;
     }
     .foto2{
         width: 40%;
@@ -73,7 +91,24 @@ table, th, td {
         width: 53%;
       }
       .foto10{
-        width: 32%;
+        width: 31%;
+      }
+    
+      /*     sunlisiti 1 */
+      .foto1-1{
+        width: 39%;
+      }
+      .foto1-2{
+        width: 39%;
+      }
+      .foto1-3{
+        width: 48%;
+      }
+      .foto1-4{
+        width: 59%;
+      }
+      .foto1-5{
+        width: 38%; 
       }
 
       table, th, td {
